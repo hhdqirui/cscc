@@ -1,6 +1,6 @@
-import org.json.simple.JSONObject;
-
 import java.time.LocalDateTime;
+
+import org.json.simple.JSONObject;
 
 public class Shift {
     private final LocalDateTime start;

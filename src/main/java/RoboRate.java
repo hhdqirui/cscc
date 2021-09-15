@@ -1,7 +1,7 @@
-import org.json.simple.JSONObject;
-
 import java.util.HashMap;
 import java.util.Map;
+
+import org.json.simple.JSONObject;
 
 public class RoboRate {
     protected static final String WEEKDAY_DAY = "weekdayDay";

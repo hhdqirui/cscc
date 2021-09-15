@@ -1,6 +1,6 @@
-import org.json.simple.JSONObject;
-
 import java.time.LocalTime;
+
+import org.json.simple.JSONObject;
 
 public class Rate {
     private final LocalTime start;

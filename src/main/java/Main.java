@@ -1,6 +1,6 @@
-import java.io.*;
-import java.net.URL;
-import java.nio.file.Path;
+import java.io.IOException;
+import java.io.FileReader;
+import java.io.Reader;
 
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
